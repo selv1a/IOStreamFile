@@ -1,0 +1,5 @@
+Laptop Asus,1.25E7,5
+Baju,150000.0,20
+Nasi Goreng,45000.0,12
+Mie Goreng,15000.0,8
+Headset Gaming,350000.0,15
